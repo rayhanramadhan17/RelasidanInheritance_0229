@@ -1,9 +1,6 @@
 #ifndef MANUSIA_H
 #define MANUSIA_H
-#include <iostream>
-#include <string>
-#include "jantung.h"
-using namespace std;
+
 //membuat class manusia di file header manusia.h
 class Manusia {
 public:
